@@ -1,0 +1,56 @@
+.inp
+{
+  border: 0.5px solid;
+  border-color:grey;
+
+}
+.navbar-navbar{
+  text-align: right;
+}
+.lg
+{
+  font-size:50px;
+}
+.cent
+{
+  padding:10px 100px 10px;
+
+  text-align: center;
+font-size:15px;
+}
+.blue-cent
+{
+  color:blue;
+}
+footer
+{
+  text-align: center;
+}
+.row
+{
+  padding:0px 100px 50px;
+
+}
+.less-sp
+{
+  line-height:7px;
+}
+.col-6
+{
+  padding-top:10px;
+}
+.toplef
+{
+  padding-left: 10px;
+}
+.high
+{
+  background-color:yellow;
+}
+.btn
+{
+  border-radius: 10px;
+  width:100px;
+  padding-left:15px;
+  padding-right:15px;
+}
